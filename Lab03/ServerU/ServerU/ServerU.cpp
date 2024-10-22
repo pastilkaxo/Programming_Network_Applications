@@ -115,6 +115,7 @@ int main(int args, _TCHAR* argv[])
                         break;
                     }
                     else {
+                       //  ibuf[libuf] = '\0';
                         cout << "[Client Message]: " << inet_ntoa(client.sin_addr) << ":" << htons(client.sin_port) << "  " << ibuf << endl;
 
                     }
