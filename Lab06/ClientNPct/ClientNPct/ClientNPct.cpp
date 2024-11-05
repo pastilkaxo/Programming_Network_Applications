@@ -209,6 +209,7 @@ int main(int args, _TCHAR* argv[]) {
 
             //}
 
+                system("pause");
 
            // CloseHandle(hPipe);
         }

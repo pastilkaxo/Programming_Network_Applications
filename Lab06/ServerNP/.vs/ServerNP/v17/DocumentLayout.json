@@ -5,6 +5,15 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C726337-DEA4-48A7-A534-77D2BE568872}|ServerNP\\ServerNP.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ServerNP\\ServerNP\\ServerNP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C726337-DEA4-48A7-A534-77D2BE568872}|ServerNP\\ServerNP.vcxproj|solutionrelative:ServerNP\\ServerNP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23197955-CE5A-4919-AF70-B2AA949AE08F}|..\\ClientNP\\ClientNP\\ClientNP.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNP\\ClientNP\\ClientNP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{904B88EB-A6EE-4C69-9410-1941245EF1C4}|..\\ClientNPct\\ClientNPct\\ClientNPct.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNPct\\ClientNPct\\ClientNPct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F75155-A9C4-4E2C-96AC-8143920B129E}|..\\ClientNPt\\ClientNPt\\ClientNPt.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNPt\\ClientNPt\\ClientNPt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +23,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +43,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientNPt.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNPt\\ClientNPt\\ClientNPt.cpp",
+              "RelativeDocumentMoniker": "..\\ClientNPt\\ClientNPt\\ClientNPt.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNPt\\ClientNPt\\ClientNPt.cpp",
+              "RelativeToolTip": "..\\ClientNPt\\ClientNPt\\ClientNPt.cpp",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAK8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T16:51:40.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientNPct.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNPct\\ClientNPct\\ClientNPct.cpp",
+              "RelativeDocumentMoniker": "..\\ClientNPct\\ClientNPct\\ClientNPct.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNPct\\ClientNPct\\ClientNPct.cpp",
+              "RelativeToolTip": "..\\ClientNPct\\ClientNPct\\ClientNPct.cpp",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAywNQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T16:51:36.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientNP.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNP\\ClientNP\\ClientNP.cpp",
+              "RelativeDocumentMoniker": "..\\ClientNP\\ClientNP\\ClientNP.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ClientNP\\ClientNP\\ClientNP.cpp",
+              "RelativeToolTip": "..\\ClientNP\\ClientNP\\ClientNP.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAIwLIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T16:28:02.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ServerNP.cpp",
               "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ServerNP\\ServerNP\\ServerNP.cpp",
               "RelativeDocumentMoniker": "ServerNP\\ServerNP.cpp",
               "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab06\\ServerNP\\ServerNP\\ServerNP.cpp",
               "RelativeToolTip": "ServerNP\\ServerNP.cpp",
-              "ViewState": "AQIAAMgAAAAAAAAAAAAuwNIAAAAVAAAA",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAUwMQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-20T16:06:00.323Z",
               "EditorCaption": ""

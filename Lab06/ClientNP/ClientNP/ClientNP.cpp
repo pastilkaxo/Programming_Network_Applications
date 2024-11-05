@@ -171,7 +171,10 @@ int main(int args, _TCHAR* argv[]) {
     HANDLE hPipe;
     try {
         HANDLE hPipe;
+        DWORD timeout = 60000;
         try {
+
+
             if ((hPipe = CreateFile(
                 TEXT("\\\\.\\pipe\\Tube"),
                 GENERIC_READ|GENERIC_WRITE,
@@ -179,6 +182,7 @@ int main(int args, _TCHAR* argv[]) {
                 NULL,OPEN_EXISTING,NULL,
                 NULL
             )) == INVALID_HANDLE_VALUE) {
+                cout << GetLastError();
                 throw SetPipeError("createfile:", GetLastError());
             }
             else {
@@ -229,7 +233,7 @@ int main(int args, _TCHAR* argv[]) {
 
 
             }
-
+            system("pause");
             CloseHandle(hPipe);
         }
         catch (string ErrorPipeText) {

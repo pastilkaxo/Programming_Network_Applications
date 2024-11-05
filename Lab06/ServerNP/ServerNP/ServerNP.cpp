@@ -171,6 +171,13 @@ int main(int args, _TCHAR* argv[]) {
     SetConsoleOutputCP(1251);
 	HANDLE hPipe;
     clock_t t1, t2;
+
+    SECURITY_ATTRIBUTES sa;
+    sa.nLength = sizeof(SECURITY_ATTRIBUTES);
+    sa.bInheritHandle = TRUE;
+    sa.lpSecurityDescriptor = NULL;
+
+
     while (true) { 
         try {
             cout << "[WAITING FOR CLIENT]\n";
@@ -178,9 +185,13 @@ int main(int args, _TCHAR* argv[]) {
             // Создание именованного канала
             if ((hPipe = CreateNamedPipe(
                 TEXT("\\\\.\\pipe\\Tube"),
-                PIPE_ACCESS_DUPLEX, // Дуплексный канал
-                PIPE_TYPE_MESSAGE | PIPE_WAIT, // Сообщения/синхронизация
-                1, NULL, NULL, INFINITE, NULL
+                PIPE_ACCESS_DUPLEX,
+                PIPE_TYPE_MESSAGE | PIPE_WAIT,
+                1,
+                0,
+                0,
+                INFINITE,
+                &sa
             )) == INVALID_HANDLE_VALUE) {
                 throw SetPipeError("CreateNamedPipe:", GetLastError());
             }

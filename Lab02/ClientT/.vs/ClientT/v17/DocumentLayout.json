@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\\source\\repos\\ClientT\\",
+  "WorkspaceRootPath": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab02\\ClientT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E051589B-0DE9-476A-99F7-22F9C6E185FA}|ClientT\\ClientT.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\\source\\repos\\ClientT\\ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E051589B-0DE9-476A-99F7-22F9C6E185FA}|ClientT\\ClientT.vcxproj|C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab02\\ClientT\\ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E051589B-0DE9-476A-99F7-22F9C6E185FA}|ClientT\\ClientT.vcxproj|solutionrelative:ClientT\\ClientT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientT.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\source\\repos\\ClientT\\ClientT\\ClientT.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab02\\ClientT\\ClientT\\ClientT.cpp",
               "RelativeDocumentMoniker": "ClientT\\ClientT.cpp",
-              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\source\\repos\\ClientT\\ClientT\\ClientT.cpp",
+              "ToolTip": "C:\\Users\\\u0412\u043B\u0430\u0434\\Desktop\\\u041B\u0430\u0431\u044B_\u0428\u0438\u043C\u0430\u043D\\Lab02\\ClientT\\ClientT\\ClientT.cpp",
               "RelativeToolTip": "ClientT\\ClientT.cpp",
               "ViewState": "AQIAACIAAAAAAAAAAAAuwDEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

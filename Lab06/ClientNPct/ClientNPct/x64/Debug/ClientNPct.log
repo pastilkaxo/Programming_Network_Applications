@@ -1,4 +1,4 @@
-﻿Сборка начата 21.10.2024 0:53:28.
+﻿Сборка начата 02.11.2024 9:36:50.
 Уровень детализации журнала: Normal.     1>Проект "C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ClientNPct\ClientNPct\ClientNPct.vcxproj" в узле 2 (целевые объекты Build).
      1>PrepareForBuild:
          Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
@@ -12,8 +12,9 @@
      1>C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ClientNPct\ClientNPct\ClientNPct.cpp(173,16): warning C4101: hPipe: неиспользованная локальная переменная
      1>C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ClientNPct\ClientNPct\ClientNPct.cpp(191,17): warning C4101: msgCount: неиспользованная локальная переменная
        Link:
-         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ClientNPct\x64\Debug\ClientNPct.exe" /INCREMENTAL /ILK:"x64\Debug\ClientNPct.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ClientNPct\x64\Debug\ClientNPct.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ClientNPct\x64\Debug\ClientNPct.lib" /MACHINE:X64 x64\Debug\ClientNPct.obj
-         ClientNPct.vcxproj -> C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ClientNPct\x64\Debug\ClientNPct.exe
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ServerNP\x64\Debug\ClientNPct.exe" /INCREMENTAL /ILK:"x64\Debug\ClientNPct.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ServerNP\x64\Debug\ClientNPct.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ServerNP\x64\Debug\ClientNPct.lib" /MACHINE:X64 x64\Debug\ClientNPct.obj
+         LINK : не найден или не выполнена сборка C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ServerNP\x64\Debug\ClientNPct.exe при последней инкрементной компоновке; выполняется полная компоновка
+         ClientNPct.vcxproj -> C:\Users\Влад\Desktop\Лабы_Шиман\Lab06\ServerNP\x64\Debug\ClientNPct.exe
        FinalizeBuildStatus:
          Файл "x64\Debug\ClientNPct.tlog\unsuccessfulbuild" удаляется.
          Обращение к "x64\Debug\ClientNPct.tlog\ClientNPct.lastbuildstate".
@@ -30,4 +31,4 @@
     Предупреждений: 3
     Ошибок: 0
 
-Прошло времени 00:00:01.02
+Прошло времени 00:00:02.31
